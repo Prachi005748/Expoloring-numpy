@@ -22,6 +22,6 @@ This repository is created to strengthen the understanding of *numerical computi
 
 If you have any questions, suggestions, or feedback, feel free to reach out:  
 
-- *GitHub*: [your-username](https://github.com/your-username)  
-- *LinkedIn*: [Your Name](https://www.linkedin.com/in/your-linkedin/)  
-- *Email*: your-email@example.com
+- *name*: Prachi Paliwal
+- *GitHub*: [Prachi005748](https://github.com/Prachi005748)  
+- *LinkedIn*: [Prachi Paliwal](https://www.linkedin.com/in/prachi-paliwal-799126268/)  
