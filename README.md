@@ -1,1 +1,1 @@
-# Expoloring-numpy
+# Exploring-numpy
